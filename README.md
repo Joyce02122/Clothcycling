@@ -1,7 +1,7 @@
 # Clothcycling - Sustainable Clothing Decision Assistant
 
 ## Project objectives
-This project aims to develop a sustainable clothing evaluation and recommendation system that helps users make informed decisions about clothing they no longer use or want. By using machine learning, the system will assess the condition of each item based on user-provided images and details, and offer personalized, eco-friendly suggestions—such as repairing, upcycling, donating, or recycling. The goal is to build an intuitive web platform where users can easily upload photos and input clothing information to receive tailored advice. Ultimately, the project promotes sustainable consumption and helps reduce textile waste by encouraging the reuse and responsible disposal of clothing.
+This project aims to develop a sustainable clothing evaluation and recommendation system that helps users make informed decisions about clothing they no longer use or want. By utilizing machine learning, the system will analyze items based on photos and details provided by the user, offering suggestions such as repairing, upcycling, donating, or recycling the clothing. The goal is to create an easy-to-use web platform where users can upload photos and input clothing information to receive personalized recommendations. This project addresses the common dilemma of how to handle unwanted clothing and encourages users to make more sustainable choices, helping to reduce clothing waste while promoting recycling and reuse.
 
 ## Target users and Their needs
 1. General consumers: Have unwanted clothes at home and need a simple, trustworthy way to evaluate and decide what to do with them.
@@ -16,6 +16,20 @@ This project aims to develop a sustainable clothing evaluation and recommendatio
 **3. Value Assessment System:** A system that allows users to input their own value judgments on how much they are willing to invest in preserving or repairing the item, guiding the system's recommendations.  
 
 **4. Recommendation Engine:** A system that generates actionable suggestions, such as repair methods, upcycling ideas, or nearby places to donate or sell the item, based on the analysis of the clothing and user input.
+
+## Development Roadmap
+| Week | Tasks                                                                                     | Deliverables                                               |
+|------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1    | Project planning, research, and tech stack selection                                      | Project requirements document, selected tech stack         |
+| 2    | UI/UX design, wireframes, and prototype creation                                          | UI mockups and interactive prototype                       |
+| 3    | Set up development environment and backend architecture                                  | Backend framework, database structure                      |
+| 4    | Implement image upload and data input features                                            | Image upload and clothing input form                       |
+| 5    | Set up and train machine learning model                                                   | Trained machine learning model                             |
+| 6    | Develop value assessment system and integrate with user inputs                           | Working value assessment system                            |
+| 7    | Implement recommendation engine for sustainable actions                                   | Functional recommendation engine                           |
+| 8    | Frontend and backend integration, user testing                                            | Integrated platform, first round of user feedback          |
+| 9    | Testing, bug fixes, UI refinement, and model optimization                                 | Refined system, optimized recommendation engine            |
+| 10   | Final testing, deployment, and user documentation                                        | Deployed platform, user documentation                      |
 
 ## Special Constraints
 **1. Machine Learning Accuracy:** The accuracy of the machine learning model will be crucial for providing reliable recommendations. Since the model's effectiveness depends on the quality and quantity of the training data, it may be limited by the diversity and quality of available clothing samples.  
