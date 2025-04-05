@@ -18,18 +18,19 @@ This project aims to develop a sustainable clothing evaluation and recommendatio
 **4. Recommendation Engine:** A system that generates actionable suggestions, such as repair methods, upcycling ideas, or nearby places to donate or sell the item, based on the analysis of the clothing and user input.
 
 ## Development Roadmap
-| Week | Tasks                                                                                     | Deliverables                                               |
-|------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1    | Project planning, research, and tech stack selection                                      | Project requirements document, selected tech stack         |
-| 2    | UI/UX design, wireframes, and prototype creation                                          | UI mockups and interactive prototype                       |
-| 3    | Set up development environment and backend architecture                                  | Backend framework, database structure                      |
-| 4    | Implement image upload and data input features                                            | Image upload and clothing input form                       |
-| 5    | Set up and train machine learning model                                                   | Trained machine learning model                             |
-| 6    | Develop value assessment system and integrate with user inputs                           | Working value assessment system                            |
-| 7    | Implement recommendation engine for sustainable actions                                   | Functional recommendation engine                           |
-| 8    | Frontend and backend integration, user testing                                            | Integrated platform, first round of user feedback          |
-| 9    | Testing, bug fixes, UI refinement, and model optimization                                 | Refined system, optimized recommendation engine            |
-| 10   | Final testing, deployment, and user documentation                                        | Deployed platform, user documentation                      |
+| Week | Tasks                                                                                     |
+|------|-------------------------------------------------------------------------------------------|
+| 1    | Project planning and research                                    |
+| 2    | UX/UI design, wireframes, and prototype creation                                          |
+| 3    | Set up development environment and backend architecture                                  |
+| 4    | Implement image upload and data input features                                            |
+| 5    | Set up and train machine learning model                                                   |
+| 6    | Develop value assessment system and integrate with user inputs                           |
+| 7    | Implement recommendation engine for sustainable actions                                   |
+| 8    | Frontend and backend integration, user testing                                            |
+| 9    | Testing, bug fixes, UI refinement, and model optimization                                 |
+| 10   | Final testing, deployment, and user documentation                                        |
+
 
 ## Special Constraints
 **1. Machine Learning Accuracy:** The accuracy of the machine learning model will be crucial for providing reliable recommendations. Since the model's effectiveness depends on the quality and quantity of the training data, it may be limited by the diversity and quality of available clothing samples.  
