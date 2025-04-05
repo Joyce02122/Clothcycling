@@ -9,7 +9,7 @@ This project aims to develop a sustainable clothing evaluation and recommendatio
 3. DIY enthusiasts: Enjoy hands-on projects and seek creative ways to repurpose or transform unused clothing.
 
 ## Key Deliverables
-**1. Web-based platform:** A user-friendly interface that allows users to upload clothing images or provide details about the item (material, age, condition, usage frequency, etc.). Displaying personalized recommendations for each item (repair, repurpose, sell, donate, or discard).
+**1. Web-based platform:** A user-friendly interface that allows users to upload clothing images or provide details about the item (material, age, condition, usage frequency, etc.). Displaying personalized recommendations for each item (repair, repurpose, sell, donate, or discard).  
 **2. Machine Learning Model:** A model trained to analyze images and item details to classify clothing based on material, condition, and other relevant attributes.  
 **3. Value Assessment System:** A system that allows users to input their own value judgments on how much they are willing to invest in preserving or repairing the item, guiding the system's recommendations.  
 **4. Recommendation Engine:** A system that generates actionable suggestions, such as repair methods, upcycling ideas, or nearby places to donate or sell the item, based on the analysis of the clothing and user input.
