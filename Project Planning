@@ -1,0 +1,34 @@
+## Project Scope
+The scope of this project is to develop a Sustainable Clothing Decision Assistant that helps users assess their unwanted clothing items and make informed decisions about them. This web-based platform will integrate machine learning, value assessment systems, and recommendation engines to encourage sustainable practices such as repair, recycling, donation, and upcycling of clothing. The project will focus on offering an intuitive and user-friendly interface for consumers to upload clothing images and input relevant details to receive personalized, actionable recommendations.
+
+## Target Users
+- **General Consumers**: Individuals who have unwanted clothing and need an easy way to evaluate and decide how to handle it, whether it be repairing, donating, selling, or recycling.
+- **Eco-Conscious Individuals**: Users interested in sustainability who wish to reduce their environmental impact by making informed decisions about the lifecycle of their clothing.
+- **DIY Enthusiasts**: People who enjoy hands-on projects and seek creative ways to repurpose or transform their unused clothing into something new and functional.
+
+## Features
+- **Web-Based Platform**: A user-friendly interface for uploading clothing images and providing details about the item (material, condition, age, usage frequency, etc.). Personalized recommendations based on the analysis of the clothing item.
+  
+- **Machine Learning Model**: An AI model that analyzes clothing images and details to classify the item based on material, condition, and other key attributes.
+  
+- **Value Assessment System**: A system that allows users to input their value judgments on how much they are willing to invest in preserving or repairing the item, helping guide the recommendations.
+  
+- **Recommendation Engine**: A system that provides actionable suggestions such as repair methods, upcycling ideas, or nearby places to donate or sell the item based on user inputs and item analysis.
+
+## Timeline
+| Week | Tasks |
+| ---- | ----- |
+| 1    | Project planning and research |
+| 2    | UX/UI design, wireframes, and prototype creation |
+| 3    | Set up development environment and backend architecture |
+| 4    | Implement image upload and data input features |
+| 5    | Set up and train machine learning model |
+| 6    | Develop value assessment system and integrate with user inputs |
+| 7    | Implement recommendation engine for sustainable actions |
+| 8    | Frontend and backend integration, user testing |
+| 9    | Testing, bug fixes, UI refinement, and model optimization |
+| 10   | Final testing, deployment, and user documentation |
+
+## Contact Information of the Team
+- **Joyce Chou**: [ychou3@uw.edu](mailto:ychou3@uw.edu)
+- **Katherine Chen**: [ejchen99@uw.edu](mailto:ejchen99@uw.edu)
